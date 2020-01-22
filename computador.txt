@@ -1,0 +1,12 @@
+1- Mouse
+2- Teclado
+3- Monitor
+4- Gabinete
+5- Placa mãe
+6- Processador
+7- Drive Óptico
+8- HD
+9- Placa de vídeo
+10-Memória ram
+11-Fonte de alimentação
+ 
